@@ -9,3 +9,10 @@ An example illustrates the usage of FFT
 
 ### pplane8
 An interactive tool for studying planar autonomous systems of differential equations.
+
+### time_correlation
+Time correlation function of two time dependent signals
+
+### time_correlation_directions
+Time correlation function of direction
+

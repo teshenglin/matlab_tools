@@ -21,7 +21,7 @@ Time correlation function of direction
 B = principal_component_analysis(X, k)
 ```
 ```matlab=
-function B = principal_component_analysis2(X, k)
+B = principal_component_analysis2(X, k)
 ```
 
 #### References:
